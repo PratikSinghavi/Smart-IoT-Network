@@ -1,4 +1,4 @@
-# [Smart IoT Network](https://github.com/PratikSinghavi/My-Projects/tree/master/Smart%20IoT%20Network)
+# [Smart IoT Network](https://github.com/PratikSinghavi/Smart-IoT-Network/tree/main/code)
 
 * An IOT framework designed to collect data from slave/worker nodes and report to the central gateway
 * Implements Zigbee protocol with arduinos as slave nodes and raspberry pi as the gateway
